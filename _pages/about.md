@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-**Professor adjunto na [Universidade do Estado do Rio de Janeiro](https://www.uerj.br/) (2023)**
+## Professor adjunto na [Universidade do Estado do Rio de Janeiro](https://www.uerj.br/) (2023)
+- Departamento de matemática aplicada \| Instituto de Matemática e Estatística
 
-**Pós-doc na [Universidade Estadual Paulista](https://www.feg.unesp.br/) (2022-2023)**
+## Anteriores
 
-**Professor visitante na [Universidade Federal do ABC](https://www.ufabc.edu.br/) (2020-2022)**
+- Pós-doc na [Universidade Estadual Paulista](https://www.feg.unesp.br/) (2022-2023)
 
-**Pós-doc na [Universidade Estadual Paulista](https://www.feg.unesp.br/) (2017-2020)**
+- Professor visitante na [Universidade Federal do ABC](https://www.ufabc.edu.br/) (2020-2022)
+
+- Pós-doc na [Universidade Estadual Paulista](https://www.feg.unesp.br/) (2017-2020)
 
 ## Interesses de pesquisa:
 - Relatividade geral e teorias alternativas de gravitação;
