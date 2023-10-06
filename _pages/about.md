@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Professor adjunto na [Universidade do Estado do Rio de Janeiro](https://www.feg.unesp.br/) (2023)**
+**Professor adjunto na [Universidade do Estado do Rio de Janeiro](https://www.uerj.br/) (2023)**
 
 **Pós-doc na [Universidade Estadual Paulista](https://www.feg.unesp.br/) (2022-2023)**
 
