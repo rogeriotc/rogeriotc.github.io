@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Professor adjunto na [Universidade do Estado do Rio de Janeiro](https://www.uerj.br/) (2023)
-### Departamento de matemática aplicada \| Instituto de Matemática e Estatística
+### Departamento de matemática aplicada \| [Instituto de Matemática e Estatística](https://www.ime.uerj.br/)
 
 ## Anteriores
 
