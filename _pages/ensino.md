@@ -5,6 +5,19 @@ permalink: /ensino/
 author_profile: true
 ---
 
+## 2023
+
+#### UERJ
+* Matemática Financeira
+* Matemática discreta
+* Métodos de simulação
+* Cálculo  numérico
+ 
+
+#### Unesp
+ * Tópicos em relatividade geral (pós-graduação)
+
+
 ## 2022
  * [Métodos matemáticos da relatividade geral (pós-graduação)](https://moodle.ufabc.edu.br/course/view.php?id=3575) 
 
