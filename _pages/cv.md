@@ -43,9 +43,16 @@ redirect_from:
   * 2016 : 2017
 
 
-## Orientações
+## Orientações em andamento
 
-**Concluídas**
+| **Ano de início** | **Nome**                          | **Nível** | **Título**                                                       |
+|:-----------------:|:-----------------------------------|:---------:|:-----------------------------------------------------------------|
+| **2022**          | Ronaldo Cesar de Paiva            | Doutorado | a definir                                                        |
+| **2022**          | Andre Felipe Moraes Luiz Lucchini | Mestrado  | Gravitational perturbations of spherically symmetric black holes |
+| **2022**          | Kelvin dos Santos Alves           | Mestrado  | Estabilidade termodinâmica de buracos negros                     |
+| **2022**          | Bárbara Banheti Sant'Annas        | Mestrado  | Perturbações escalares de buracos negros com simetrial axial     |
+
+## Orientações concluídas
 
 | **Ano de conclusão** | **Nome**                           | **Nível**                | **Título**                                                                             |
 |----------------------|------------------------------------|--------------------------|----------------------------------------------------------------------------------------|
@@ -58,55 +65,3 @@ redirect_from:
 | **2021**             | Andre Felipe Moraes Luiz Lucchini  | Iniciação Científica/TCC | Ondas gravitacionais em regime pós-newtoniano                                          |
 | **2019**             | Tatiane de Paula Moraes            | Iniciação Científica/TCC | Aspectos teóricos da geração, propagação e detecção de ondas gravitacionais            |
 | **2019**             | Lucas Duarte Queiroz               | Iniciação Científica Jr. | Aplicação de espinores no estudo do movimento sacádico do olho humano                  |
-
-**Em andamento**
-
-| **Ano de início** | **Nome**                          | **Nível** | **Título**                                                       |
-|:-----------------:|:-----------------------------------|:---------:|:-----------------------------------------------------------------|
-| **2022**          | Ronaldo Cesar de Paiva            | Doutorado | a definir                                                        |
-| **2022**          | Andre Felipe Moraes Luiz Lucchini | Mestrado  | Gravitational perturbations of spherically symmetric black holes |
-| **2022**          | Kelvin dos Santos Alves           | Mestrado  | Estabilidade termodinâmica de buracos negros                     |
-| **2022**          | Bárbara Banheti Sant'Annas        | Mestrado  | Perturbações escalares de buracos negros com simetrial axial     |
-
-
-
-  * Tatiane de Paula Moraes
-    * Mestrado (concluído)
-    * Analysis of the emission of gravitational waves by compact binaries during
-coalescence
-   
-  * Ronaldo Cesar de Paiva
-    * Mestrado (concluído)
-    * Perturbações em soluções do tipo buraco negro obtidas por desacoplamento
-gravitacional
-
-  * Juan Carlos Martins (coorientador)
-    * Mestrado (concluído)
-    * Problema relativístico restrito de três corpos para objetos compactos 
-    
-  * Ronaldo Cesar de Paiva
-    * Doutorado (em andamento)
-  
-  * Andre Felipe Moraes Luiz Lucchini
-    * Mestrado (em andamento)
-    
-  * Kelvin dos Santos Alves
-    * Mestrado (em andamento)
-
-  * Bárbara Banheti Sant'Annas
-    * Mestrado (em andamento)
-   
-**Graduação**
-
-  * Tatiane de Paula Moraes (concluído)
-
-  * Andre Felipe Moraes Luiz Lucchini (concluído)
-    
-  * Kelvin dos Santos Alves (concluído)
-
-  * Mateus Leal Uchoa Fernandes (concluído)
-
-  * Ygor Pasquereli Bueno (concluído)
-
-  * Lucas Duarte Queiroz 
-    * Iniciação Científica Jr. (concluído)
