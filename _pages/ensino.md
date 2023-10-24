@@ -8,7 +8,7 @@ author_profile: true
 ## Cursos ministrados
 
 | **Ano**  | **Universidade** | **Disciplina**                                               | **Nível**     |
-| -------- | ---------------- | ------------------------------------------------------------ | ------------- |
+| :------: | :--------------: | :----------------------------------------------------------- | :-----------: |
 | **2023** | UERJ             | Métodos de simulação                                         | graduação     |
 | **2023** | UERJ             | Matemática discreta                                          | graduação     |
 | **2023** | UERJ             | Matemática Financeira                                        | graduação     |
