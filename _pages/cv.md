@@ -12,9 +12,8 @@ redirect_from:
 - ### [**CV (English)**](/files/resume.pdf)
 - ### [Currículo Lattes](http://lattes.cnpq.br/4387593644266917)
 
----
-
 ## Resumo
+---
 
 ### Formação
 
