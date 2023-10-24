@@ -28,7 +28,7 @@ redirect_from:
 
 |     **Período**     | **Posição**          | **Instituição**                                         |
 | :-----------------: | :------------------- | :------------------------------------------------------ |
-| **2023 \|Presente** | Professor adjunto    | Universidade do Estado do Rio de Janeiro (UERJ)         |
+| **2023 \| Presente** | Professor adjunto    | Universidade do Estado do Rio de Janeiro (UERJ)         |
 |  **2022 \| 2023**   | Pós-doutorado        | Universidade Estadual Paulista (UNESP)                  |
 |  **2020 \| 2022**   | Professor visitante  | Universidade Federal do ABC (UFABC)                     |
 |  **2017 \| 2020**   | Pós-doutorado        | Universidade Estadual Paulista (UNESP)                  |
