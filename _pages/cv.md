@@ -12,6 +12,7 @@ redirect_from:
 - ### [**CV (English)**](/files/resume.pdf)
 - ### [Currículo Lattes](http://lattes.cnpq.br/4387593644266917)
 
+# Resumo
 
 ## Formação
 
@@ -23,25 +24,13 @@ redirect_from:
 
 ## Experiência acadêmica
 
-* Professor adjunto
-  * Universidade do Estado do Rio de Janeiro (UERJ)
-  * 2023 : Presente
-
-* Pós-doutorado
-  * Universidade Estadual Paulista (UNESP)
-  * 2022 : 2023
-
-* Professor visitante
-  * Universidade Federal do ABC (UFABC)
-  * 2020 : 2022
-
-* Pós-doutorado
-  * Universidade Estadual Paulista (UNESP)
-  * 2017 : 2020
-
-* Professor
-  * Faculdades de Tecnologia do Estado de São Paulo (FATEC)
-  * 2016 : 2017
+|     **Período**     | **Posição**          | **Instituição**                                         |
+| :-----------------: | :------------------- | :------------------------------------------------------ |
+| **2023 \|Presente** | Professor adjunto    | Universidade do Estado do Rio de Janeiro (UERJ)         |
+|  **2022 \| 2023**   | Pós-doutorado        | Universidade Estadual Paulista (UNESP)                  |
+|  **2020 \| 2022**   | Professor visitante  | Universidade Federal do ABC (UFABC)                     |
+|  **2017 \| 2020**   | Pós-doutorado        | Universidade Estadual Paulista (UNESP)                  |
+|  **2016 \| 2017**   | Professor contratado | Faculdades de Tecnologia do Estado de São Paulo (FATEC) |
 
 
 ## Orientações em andamento
