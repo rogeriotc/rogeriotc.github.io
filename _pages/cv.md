@@ -12,9 +12,11 @@ redirect_from:
 - ### [**CV (English)**](/files/resume.pdf)
 - ### [Currículo Lattes](http://lattes.cnpq.br/4387593644266917)
 
-# Resumo
+---
 
-## Formação
+## Resumo
+
+### Formação
 
 * Doutorado em Física, Universidade Federal do ABC (2017)
   * Estágio de doutorado sanduíche, *Università di Bologna* (Itália)    
@@ -22,7 +24,7 @@ redirect_from:
 * Bacharelado em Física, Universidade Federal do ABC (2013)
 * Bacharelado e licenciatura em Matemática, Universidade do grande ABC (2006)
 
-## Experiência acadêmica
+### Experiência acadêmica
 
 |     **Período**     | **Posição**          | **Instituição**                                         |
 | :-----------------: | :------------------- | :------------------------------------------------------ |
@@ -33,7 +35,7 @@ redirect_from:
 |  **2016 \| 2017**   | Professor contratado | Faculdades de Tecnologia do Estado de São Paulo (FATEC) |
 
 
-## Orientações em andamento
+### Orientações em andamento
 
 | **Início**        | **Nome**                          | **Nível** | **Título**                                                       |
 |:-----------------:|:-----------------------------------|:---------:|:-----------------------------------------------------------------|
@@ -42,7 +44,7 @@ redirect_from:
 | **2022**          | Kelvin dos Santos Alves           | Mestrado  | Estabilidade termodinâmica de buracos negros                     |
 | **2022**          | Bárbara Banheti Sant'Annas        | Mestrado  | Perturbações escalares de buracos negros com simetrial axial     |
 
-## Orientações concluídas
+### Orientações concluídas
 
 | **Conclusão**        | **Nome**                           | **Nível**                | **Título**                                                                             |
 |:--------------------:|:-----------------------------------|:------------------------:|:---------------------------------------------------------------------------------------|
