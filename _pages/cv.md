@@ -16,6 +16,7 @@ redirect_from:
 ## Formação
 
 * Doutorado em Física, Universidade Federal do ABC (2017)
+  * Estágio de doutorado sanduíche, *Università di Bologna* (Itália)    
 * Mestrado em Matemática Aplicada, Universidade Federal do ABC (2013)
 * Bacharelado em Física, Universidade Federal do ABC (2013)
 * Bacharelado e licenciatura em Matemática, Universidade do grande ABC (2006)
@@ -39,13 +40,13 @@ redirect_from:
   * 2017 : 2020
 
 * Professor
-  * Faculdade de Tecnologia (FATEC)
+  * Faculdades de Tecnologia do Estado de São Paulo (FATEC)
   * 2016 : 2017
 
 
 ## Orientações em andamento
 
-| **Ano de início** | **Nome**                          | **Nível** | **Título**                                                       |
+| **Início**        | **Nome**                          | **Nível** | **Título**                                                       |
 |:-----------------:|:-----------------------------------|:---------:|:-----------------------------------------------------------------|
 | **2022**          | Ronaldo Cesar de Paiva            | Doutorado | a definir                                                        |
 | **2022**          | Andre Felipe Moraes Luiz Lucchini | Mestrado  | Gravitational perturbations of spherically symmetric black holes |
@@ -54,8 +55,8 @@ redirect_from:
 
 ## Orientações concluídas
 
-| **Ano de conclusão** | **Nome**                           | **Nível**                | **Título**                                                                             |
-|----------------------|------------------------------------|--------------------------|----------------------------------------------------------------------------------------|
+| **Conclusão**        | **Nome**                           | **Nível**                | **Título**                                                                             |
+|:--------------------:|:-----------------------------------|:------------------------:|:---------------------------------------------------------------------------------------|
 | **2023**                 | Ygor Pasquereli Bueno              | Iniciação Científica     | Equilíbrio hidrostático e massa limite de estrelas compactas                           |
 | **2023**                 | Mateus Leal Uchoa Fernandes        | Iniciação Científica     | Geodésicas e sombras de buracos negros com "cabelo"                                    |
 | **2022**             | Ronaldo Cesar de Paiva             | Mestrado                 | Analysis of the emission of gravitational waves by compact binaries during coalescence |
