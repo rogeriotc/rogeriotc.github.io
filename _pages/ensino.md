@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Ensino"
+title: ""
 permalink: /ensino/
 author_profile: true
 ---
