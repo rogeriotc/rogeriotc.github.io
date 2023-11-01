@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Exempplos de superfícies produzidas no sage"
+title: "Exemplos de superfícies produzidas no sage"
 permalink: /sagemath/surf/
 author_profile: true
 ---
