@@ -49,9 +49,9 @@ redirect_from:
 |:--------------------:|:-----------------------------------|:------------------------:|:---------------------------------------------------------------------------------------|
 | **2023**                 | Ygor Pasquereli Bueno              | Iniciação Científica     | Equilíbrio hidrostático e massa limite de estrelas compactas                           |
 | **2023**                 | Mateus Leal Uchoa Fernandes        | Iniciação Científica     | Geodésicas e sombras de buracos negros com "cabelo"                                    |
-| **2022**             | Ronaldo Cesar de Paiva             | Mestrado                 | Analysis of the emission of gravitational waves by compact binaries during coalescence |
-| **2022**             | Juan Carlos Martins (coorientação) | Mestrado                 | Perturbações em soluções do tipo buraco negro obtidas por desacoplamento gravitacional |
-| **2022**             | Tatiane de Paula Moraes            | Mestrado                 | Problema relativístico restrito de três corpos para objetos compactos                  |
+| **2022**             | Ronaldo Cesar de Paiva             | Mestrado                 | Perturbações em soluções do tipo buraco negro obtidas por desacoplamento gravitacional |
+| **2022**             | Juan Carlos Martins (coorientação) | Mestrado                 | Problema relativístico restrito de três corpos para objetos compactos |
+| **2022**             | Tatiane de Paula Moraes            | Mestrado                 | Analysis of the emission of gravitational waves by compact binaries during coalescence                  |
 | **2021**             | Kelvin dos Santos Alves            | Iniciação Científica/TCC | Caracterização geométrica de horizontes de buracos negros                              |
 | **2021**             | Andre Felipe Moraes Luiz Lucchini  | Iniciação Científica/TCC | Ondas gravitacionais em regime pós-newtoniano                                          |
 | **2019**             | Tatiane de Paula Moraes            | Iniciação Científica/TCC | Aspectos teóricos da geração, propagação e detecção de ondas gravitacionais            |
