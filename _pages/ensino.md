@@ -9,6 +9,7 @@ author_profile: true
 
 | **Ano**  | **Universidade** | **Disciplina**                                               | **Nível**     |
 | :------: | :--------------: | :----------------------------------------------------------- | :-----------: |
+| **2024** | UERJ             | Cálculo numérico               | graduação |
 | **2023** | UERJ             | Métodos de simulação                                         | graduação     |
 | **2023** | UERJ             | Matemática discreta                                          | graduação     |
 | **2023** | UERJ             | Matemática Financeira                                        | graduação     |
