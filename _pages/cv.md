@@ -39,14 +39,17 @@ redirect_from:
 | **Início**        | **Nome**                          | **Nível** | **Título**                                                       |
 |:-----------------:|:-----------------------------------|:---------:|:-----------------------------------------------------------------|
 | **2022**          | Ronaldo Cesar de Paiva            | Doutorado | a definir                                                        |
+| **2022**          | Kelvin dos Santos Alves           | Doutorado  | a definir                      |
+| **2022**          | Bárbara Banheti Sant'Annas        | Doutorado  | a definir      |
 | **2022**          | Andre Felipe Moraes Luiz Lucchini | Mestrado  | Gravitational perturbations of spherically symmetric black holes |
-| **2022**          | Kelvin dos Santos Alves           | Mestrado  | Estabilidade termodinâmica de buracos negros                     |
-| **2022**          | Bárbara Banheti Sant'Annas        | Mestrado  | Perturbações escalares de buracos negros com simetrial axial     |
+
 
 ### Orientações concluídas
 
 | **Conclusão**        | **Nome**                           | **Nível**                | **Título**                                                                             |
 |:--------------------:|:-----------------------------------|:------------------------:|:---------------------------------------------------------------------------------------|
+| **2024**          | Kelvin dos Santos Alves           | Mestrado  | Estabilidade termodinâmica de buracos negros                     |
+| **2024**          | Bárbara Banheti Sant'Annas        | Mestrado  | Perturbações escalares e processos de extração de energia de buracos negros     |
 | **2023**                 | Ygor Pasquereli Bueno              | Iniciação Científica     | Equilíbrio hidrostático e massa limite de estrelas compactas                           |
 | **2023**                 | Mateus Leal Uchoa Fernandes        | Iniciação Científica     | Geodésicas e sombras de buracos negros com "cabelo"                                    |
 | **2022**             | Ronaldo Cesar de Paiva             | Mestrado                 | Perturbações em soluções do tipo buraco negro obtidas por desacoplamento gravitacional |
