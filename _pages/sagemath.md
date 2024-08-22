@@ -9,7 +9,6 @@ author_profile: yes
 
 [**Material de um minicurso de SageMath para físicos que ministrei na Unesp/FEG**](curso_sage.md)
 
-[Exemplos de superfícies](surf_sage.md)
 
 ## Por que usar o SageMath?
 
@@ -55,6 +54,8 @@ Existem 3 formas básicas de usar o SageMath:
 
 ## Exemplos
 
-[Geodésicas nulas na geometria de Schwarzscild (SageManifolds)](null_geodesics.html)
+[Horizontes e ergosuperfícies do espaço-tempo de Kerr (SageManifolds)](https://nbviewer.org/github/sagemanifolds/SageManifolds/blob/master/Notebooks/SM_Kerr_surfaces.ipynb)
 
-[Algumas superfícies de revolução](https://rogeriotc.github.io/FUV/surf/)
+[Derivada parcial](https://rogeriotc.github.io/files/partial_diff.html)
+
+[Algumas superfícies de revolução](surf_sage.md)
