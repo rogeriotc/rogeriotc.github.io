@@ -39,8 +39,8 @@ redirect_from:
 | **Início**        | **Nome**                          | **Nível** | **Título**                                                       |
 |:-----------------:|:-----------------------------------|:---------:|:-----------------------------------------------------------------|
 | **2022**          | Ronaldo Cesar de Paiva            | Doutorado | a definir                                                        |
-| **2022**          | Kelvin dos Santos Alves           | Doutorado  | a definir                      |
-| **2022**          | Bárbara Banheti Sant'Annas        | Doutorado  | a definir      |
+| **2024**          | Kelvin dos Santos Alves           | Doutorado  | a definir                      |
+| **2024**          | Bárbara Banheti Sant'Annas        | Doutorado  | a definir      |
 
 
 
@@ -48,7 +48,7 @@ redirect_from:
 
 | **Conclusão**        | **Nome**                           | **Nível**                | **Título**                                                                             |
 |:--------------------:|:-----------------------------------|:------------------------:|:---------------------------------------------------------------------------------------|
-| **2022**          | Andre Felipe Moraes Luiz Lucchini | Mestrado  | Probing Gravitational Fluctuations in Spherically Symmetric Black Holes and Extreme Mass Ratios Systems |
+| **2024**          | Andre Felipe Moraes Luiz Lucchini | Mestrado  | Probing Gravitational Fluctuations in Spherically Symmetric Black Holes and Extreme Mass Ratios Systems |
 | **2024**          | Kelvin dos Santos Alves           | Mestrado  | Estabilidade termodinâmica de buracos negros                     |
 | **2024**          | Bárbara Banheti Sant'Annas        | Mestrado  | Perturbações escalares e processos de extração de energia de buracos negros     |
 | **2023**                 | Ygor Pasquereli Bueno              | Iniciação Científica     | Equilíbrio hidrostático e massa limite de estrelas compactas                           |
