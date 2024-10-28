@@ -48,8 +48,7 @@ redirect_from:
 
 | **Conclusão**        | **Nome**                           | **Nível**                | **Título**                                                                             |
 |:--------------------:|:-----------------------------------|:------------------------:|:---------------------------------------------------------------------------------------|
-| **2022**          | Andre Felipe Moraes Luiz Lucchini | Mestrado  | Probing Gravitational Fluctuations in Spherically
-Symmetric Black Holes and Extreme Mass Ratios Systems |
+| **2022**          | Andre Felipe Moraes Luiz Lucchini | Mestrado  | Probing Gravitational Fluctuations in Spherically Symmetric Black Holes and Extreme Mass Ratios Systems |
 | **2024**          | Kelvin dos Santos Alves           | Mestrado  | Estabilidade termodinâmica de buracos negros                     |
 | **2024**          | Bárbara Banheti Sant'Annas        | Mestrado  | Perturbações escalares e processos de extração de energia de buracos negros     |
 | **2023**                 | Ygor Pasquereli Bueno              | Iniciação Científica     | Equilíbrio hidrostático e massa limite de estrelas compactas                           |
