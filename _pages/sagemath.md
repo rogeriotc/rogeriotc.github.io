@@ -5,58 +5,59 @@ permalink: /sagemath/
 author_profile: yes
 ---
 
-[SageMath](https://www.sagemath.org/) é um moderno sistema de computação algébrica, livre, que tem a missão de ser “uma alternativa viável e de código aberto para o Maple, Magma, Mathematica e Matlab”. É formado por quase 100 pacotes de código aberto, em uma interface unificada. Dentre as suas funcionalidades encontra-se uma grande variedade de ferramentas matemáticas, como: cálculo, equações diferenciais, diversas estruturas algébricas, geometria diferencial, topologia, cálculo tensorial e mais. É adequado tanto para o uso com fins educacionais quanto na pesquisa acadêmica. 
+[SageMath](https://www.sagemath.org/) is a modern, free algebraic computation system with the mission to be “a viable open-source alternative to Maple, Magma, Mathematica, and Matlab.” It comprises nearly 100 open-source packages in a unified interface. Among its features are a wide variety of mathematical tools, such as calculus, differential equations, various algebraic structures, differential geometry, topology, tensor calculus, and more. It is suitable for both educational purposes and academic research.
 
-[**Material de um minicurso de SageMath para físicos que ministrei na Unesp/FEG**](curso_sage.md)
+[**Material from a SageMath minicourse for physicists I taught at Unesp/FEG (in Portuguese)**](curso_sage.md)
 
+## Why use SageMath?
 
-## Por que usar o SageMath?
+Below are some key points highlighted in the book [Elementos de Computação Matemática com SageMath](https://sagectu.com.br/index.html), published by the [Brazilian Mathematical Society](https://www.sbm.org.br/), in favor of SageMath:
 
-Abaixo estão alguns pontos elencados no livro [Elementos de Computação Matemática com SageMath](https://sagectu.com.br/index.html), publicado pela editora da [Sociedade Brasileira de Matemática](https://www.sbm.org.br/), em favor do SageMath:
-
-> - SageMath engloba os mais sofisticados pacotes e softwares *open source* destinados à computação simbólica e numérica. Entres eles, estão as bibliotecas científicas [NumPy](https://www.numpy.org), [SciPy](https://www.scipy.org) e [matplotlib](https://matplotlib.org), o software baseado em Python para matemática simbólica [SymPy](https://www.sympy.org), o já estabelecido [Maxima](https://www.maxima.sourceforge.net), além dos sistemas algébricos computacionais direcionados para Teoria do Grupos e Teoria do Números, [GAP](https://www.gap-system.org) e [Pari GP](https://pari.math.u-bordeaux.fr), respectivamente. O Sage é também construído sobre o poderoso software de estatística computacional [R](https://www.r-project.org) e centenas de milhares de linhas exclusivas de códigos que acrescentam novas funcionalidades ao sistema. Isso o torna uma excelente alternativa aos já consagrados sistemas comerciais.
-> - SageMath tem a sintaxe de programação baseada em Python. Nos últimos anos, a linguagem Python tomou-se cada vez mais popular por ser de fácil assimilação e leitura. Tais características têm estimulado universidades a adotá-la como primeira linguagem de programação a estudantes de Engenharia, Ciência da Computação, Física e até Matemática.
-> - SageMath é gratuito, e isso permite seu uso para qualquer propósito (ensino, pesquisa e indústria). Portanto, qualquer estudante, pesquisador ou profissional que receba o *script* de um programa desenvolvido em Sage será capaz de visualizar, manipular e contribuir para melhoria dos resultados.
-> - SageMath é um software *open source*, ou seja, é possível acessar e alterar o código-fonte de acordo com sua necessidade. Na prática, se um comando ou função do SageMath não está adequado às suas necessidades, você pode estudá-lo, modificá-lo e usá-lo a sua conveniência.
-> - SageMath mostra-se adequado para uso em ensino e pesquisa de matemática e matemática computacional. Existem vários [livros](https://www.sagemath.org/library-publications.html#books) e centenas de [publicações](https://www.sagemath.org/library-publications.html).
+> - SageMath integrates the most sophisticated open-source packages and software for symbolic and numerical computation. Among them are the scientific libraries [NumPy](https://www.numpy.org), [SciPy](https://www.scipy.org), and [matplotlib](https://matplotlib.org); the Python-based symbolic math software [SymPy](https://www.sympy.org); the well-established [Maxima](https://www.maxima.sourceforge.net); and the computational algebra systems aimed at Group Theory and Number Theory, [GAP](https://www.gap-system.org) and [Pari GP](https://pari.math.u-bordeaux.fr), respectively. SageMath is also built on the powerful computational statistics software [R](https://www.r-project.org) and hundreds of thousands of exclusive lines of code that add new features to the system. This makes it an excellent alternative to well-known commercial systems.
+> - SageMath uses Python-based syntax. In recent years, Python has become increasingly popular for its ease of learning and readability. These characteristics have encouraged universities to adopt it as the first programming language for students in Engineering, Computer Science, Physics, and even Mathematics.
+> - SageMath is free, allowing its use for any purpose (teaching, research, and industry). Therefore, any student, researcher, or professional who receives a Sage program script can view, manipulate, and contribute to improving the results.
+> - SageMath is open source, meaning its source code can be accessed and modified according to your needs. In practice, if a SageMath command or function does not meet your needs, you can study it, modify it, and use it at your convenience.
+> - SageMath is well-suited for teaching and research in mathematics and computational mathematics. There are several [books](https://www.sagemath.org/library-publications.html#books) and hundreds of [publications](https://www.sagemath.org/library-publications.html).
 >
-> - Se um *bug* é notado pela equipe de desenvolvimento do Sage, ele sera anunciado na lista de discussão de desenvolvedores para o conhecimento de todos, enquanto que em um software proprietário só deve ser corrigido em uma versão futura. Há também o risco de a existência do erro não ser tornada pública.
+> - If a bug is noticed by the Sage development team, it is announced on the developer discussion list for public knowledge, while in proprietary software, it may only be fixed in a future version. There is also the risk that the existence of the bug is not made public.
 
-Além disso há o projeto [SageManifolds](https://sagemanifolds.obspm.fr/index.html), integrado ao Sage. O SageManifolds inclui funcionalidades de geometria diferencial e cálculo tensorial. Além de lidar com variedades diferenciáveis e riemannianas, variedades pseudo-riemannianas  também são tratadas aqui, com farta aplicação em Relatividade Geral.
+Additionally, there is the [SageManifolds](https://sagemanifolds.obspm.fr/index.html) project, integrated into SageMath. SageManifolds includes differential geometry and tensor calculus features. Beyond handling differentiable and Riemannian manifolds, it also supports pseudo-Riemannian manifolds, making it highly applicable to General Relativity.
 
-## Onde aprender a usar?
+## Where to learn?
 
-### Tutoriais
+### Tutorials
 
-- [Gria de referência rápida](https://rogeriotc.github.io/files/quickref-calc.pdf)
+- [Quick Reference Guide](https://rogeriotc.github.io/files/quickref-calc.pdf)
 
-- [Tutorial oficial de funcionalidades básicas (em português)](https://doc.sagemath.org/html/pt/tutorial/index.html)
+- [Official tutorial for basic features (in Portuguese)](https://doc.sagemath.org/html/pt/tutorial/index.html)
 
-- [Tutoriais temáticos](https://doc.sagemath.org/html/en/thematic_tutorials/index.html)
+- [Thematic tutorials](https://doc.sagemath.org/html/en/thematic_tutorials/index.html)
 
-- [Manual de referência](https://doc.sagemath.org/html/en/reference/index.html)
+- [Reference manual](https://doc.sagemath.org/html/en/reference/index.html)
 
-- Tutorial por Michael E. O'Sullivan, da San Diego State University
-  - [On-line](https://mosullivan.sdsu.edu/Teaching/sdsu-sage-tutorial/index.html)
+- Tutorial by Michael E. O'Sullivan, San Diego State University
+  - [Online](https://mosullivan.sdsu.edu/Teaching/sdsu-sage-tutorial/index.html)
   - [PDF](https://mosullivan.sdsu.edu/Teaching/sdsu-sage-tutorial/SDSUSageTutorial.pdf)
 
-### Livros
+### Books
 
-- [Computational Mathematics with SageMath (livre)](http://sagebook.gforge.inria.fr/english.html)
+- [Computational Mathematics with SageMath (free)](http://sagebook.gforge.inria.fr/english.html)
 - [Sage for Undergraduates, 2nd edition](http://www.sageforundergraduates.org/)
-- [Sage para Estudiantes de Pregrado (livre)](http://www.sage-para-estudiantes.com/)
-- [Elementos de Computação Matemática com SageMath (em português)](https://sagectu.com.br/index.html)
+- [Sage para Estudiantes de Pregrado (free)](http://www.sage-para-estudiantes.com/)
+- [Elementos de Computação Matemática com SageMath (in Portuguese)](https://sagectu.com.br/index.html)
 
-## Onde conseguir?
-Existem 3 formas básicas de usar o SageMath:
-- On-line, com o [cocalc](https://cocalc.com/app);
-- Em uma [Instalação local](https://doc.sagemath.org/html/en/installation/index.html);
-- Executando células individuais no [SageMathCell](https://sagecell.sagemath.org/)
+## How to get it?
 
-## Exemplos
+There are three main ways to use SageMath:
+- Online, with [CoCalc](https://cocalc.com/app);
+- Via [Local installation](https://doc.sagemath.org/html/en/installation/index.html);
+- Executing individual cells on [SageMathCell](https://sagecell.sagemath.org/)
 
-[Horizontes e ergosuperfícies do espaço-tempo de Kerr (SageManifolds)](https://nbviewer.org/github/sagemanifolds/SageManifolds/blob/master/Notebooks/SM_Kerr_surfaces.ipynb)
+## Examples
 
-[Derivada parcial](https://rogeriotc.github.io/files/partial_diff.html)
+[Horizons and ergosurfaces of the Kerr spacetime (SageManifolds)](https://nbviewer.org/github/sagemanifolds/SageManifolds/blob/master/Notebooks/SM_Kerr_surfaces.ipynb)
 
-[Algumas superfícies de revolução](surf_sage.md)
+[Partial derivative](https://rogeriotc.github.io/files/partial_diff.html)
+
+[Some surfaces of revolution](surf_sage.md)
+
