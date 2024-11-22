@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "Superfícies de revolução"
+title: "Surfaces of Revolution"
 permalink: /sagemath/surf/
 author_profile: true
 ---
 
-[Laterais de tronco de cone](https://rogeriotc.github.io/files/surf_rev.html)
+[Frustum of a Cone's Lateral Surface](https://rogeriotc.github.io/files/surf_rev.html)
 
-[Função seno](https://rogeriotc.github.io/files/revsin.html)
+[Sine Function](https://rogeriotc.github.io/files/revsin.html)
 
-[Delimitada por duas curvas](https://rogeriotc.github.io/files/rev2ex.html)
+[Bounded by Two Curves](https://rogeriotc.github.io/files/rev2ex.html)
 
-[Em torno de y](https://rogeriotc.github.io/files/revcos.html)
+[Around the y-axis](https://rogeriotc.github.io/files/revcos.html)
