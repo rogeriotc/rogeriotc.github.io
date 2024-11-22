@@ -5,7 +5,8 @@ permalink: /publicacoes/
 author_profile: true
 ---
 
-As publicações também estão listadas no [meu perfíl no Google Acadêmico](https://scholar.google.com/citations?user=MaU0H1UAAAAJ) ou no [InspireHEP](https://inspirehep.net/authors/1403051).
+Publications are also listed on [my Google Scholar profile](https://scholar.google.com/citations?user=MaU0H1UAAAAJ) or on [InspireHEP](https://inspirehep.net/authors/1403051).
+
 
 |   #   | Year | Author(s)                                                   | Title                                                        | Journal                      | DOI Link                                                     |
 | ---- | ---- | ----------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
