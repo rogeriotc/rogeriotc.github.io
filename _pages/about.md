@@ -20,10 +20,10 @@ redirect_from:
 - Postdoc at [São Paulo State University](https://www.feg.unesp.br/) (2017 \| 2020)
 
 ## Research Interests:
-- General relativity and alternative theories of gravitation;
+- General relativity and alternative theories of gravity;
 - Geometry and physics of black holes;
 - Gravitational waves;
-- Clifford algebras and the algebraic structure of spinors.
+- Clifford algebras and the structure of spinors.
 
 ## Academic Profiles and Publications:
 
