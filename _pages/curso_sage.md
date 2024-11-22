@@ -1,26 +1,25 @@
 ---
 layout: archive
-title: "SageMath para físicos"
+title: "SageMath for Physicists"
 permalink: /curso_sage/
 author_profile: true
 ---
 
-### Esse é o meterial de um minicurso de SageMath para físicos que ministrei na Unesp (campus Guaratinguetá) no verão de 2021.
+### This is the material for a SageMath minicourse for physicists that I taught at Unesp (Guaratinguetá campus) in the summer of 2021.
 
+* [Quick Reference Guide](/files/quickref-calc.pdf)
 
-* [Guia de referência rápida](/files/quickref-calc.pdf)
-
-* [Aula 0](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/aula_0.ipynb) (ambientação)
-    * [Solução dos exercícios](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/aula_0_sol.ipynb)
-* [Aula 1](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/aula_1.ipynb) (variáveis, expressões simbólicas e cálculo simbólico)
-* Aula 2 
-    * [Aula 2.1](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/aula_2_1.ipynb) (o problema de Kepler e Lei de deslocamento de Wien)
-    * [Aula 2.2](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/aula_2_2.ipynb) (jupyter e markdown)
-    * [Aula 2.3](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/aula_2_3.ipynb) (gráficos 2D e 3D)
-* [Aula 3](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/aula_3.ipynb) (vetores, matrizes e álgebra linear)
-* Aula 4
-    * [Aula 4.1](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/Aula_4_1.ipynb) (vetores, covetores, formas diferenciais e equações de Maxwell)
-    * [Aula 4.2](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/Aula_4_2.ipynb) (Solução de FRW e equações de Friedmann)
-* Aula 5
-    * [Aula 5.1](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/Aula_5_1.ipynb) (equação de Klein-Gordon no espaço-tempo de Scwarzschild)
-    * [Aula 5.2](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/Aula_5_2.ipynb) (imersão do espaço-tempo de Schwarzschild e geodésicas)
+* [Lesson 0](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/aula_0.ipynb) (introduction)
+    * [Exercise Solutions](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/aula_0_sol.ipynb)
+* [Lesson 1](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/aula_1.ipynb) (variables, symbolic expressions, and symbolic calculus)
+* Lesson 2
+    * [Lesson 2.1](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/aula_2_1.ipynb) (Kepler's problem and Wien's displacement law)
+    * [Lesson 2.2](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/aula_2_2.ipynb) (Jupyter and Markdown)
+    * [Lesson 2.3](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/aula_2_3.ipynb) (2D and 3D plotting)
+* [Lesson 3](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/aula_3.ipynb) (vectors, matrices, and linear algebra)
+* Lesson 4
+    * [Lesson 4.1](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/Aula_4_1.ipynb) (vectors, covectors, differential forms, and Maxwell's equations)
+    * [Lesson 4.2](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/Aula_4_2.ipynb) (FRW solution and Friedmann equations)
+* Lesson 5
+    * [Lesson 5.1](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/Aula_5_1.ipynb) (Klein-Gordon equation in Schwarzschild spacetime)
+    * [Lesson 5.2](https://nbviewer.jupyter.org/github/rogeriotc/SageMath_Phys/blob/main/Aula_5_2.ipynb) (Schwarzschild spacetime embedding and geodesics)
