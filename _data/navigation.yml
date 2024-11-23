@@ -4,13 +4,13 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Publicações"
+  - title: "Publications"
     url: /publicacoes/
 
 #  - title: "Talks"
 #    url: /talks/    
 
-  - title: "Ensino"
+  - title: "Teaching"
     url: /ensino/    
     
   - title: "SageMath"
