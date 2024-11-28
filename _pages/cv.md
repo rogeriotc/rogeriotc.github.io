@@ -31,7 +31,7 @@ redirect_from:
 |  **2022 \| 2023**   | Postdoctoral Fellow  | São Paulo State University (UNESP)                     |
 |  **2020 \| 2022**   | Visiting Professor   | Federal University of ABC (UFABC)                      |
 |  **2017 \| 2020**   | Postdoctoral Fellow  | São Paulo State University (UNESP)                     |
-|  **2016 \| 2017**   | Contracted Professor | São Paulo State Technology Colleges (FATEC)            |
+|  **2016 \| 2017**   | Lecturer | São Paulo State Technology Colleges (FATEC)            |
 
 ### Ongoing Supervisions
 
