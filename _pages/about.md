@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-![](files/teaching_physics.png)
 
 ## Adjunct Professor at [Rio de Janeiro State University](https://www.uerj.br/) (2023)
 ### Department of Applied Mathematics \| [Institute of Mathematics and Statistics](https://www.ime.uerj.br/)
@@ -32,3 +31,7 @@ redirect_from:
 * [Currículo Lattes](http://lattes.cnpq.br/4387593644266917)
 * [InspireHEP](https://inspirehep.net/authors/1403051)
 * [Google Scholar](https://scholar.google.com/citations?user=MaU0H1UAAAAJ)
+
+---
+
+![](files/teaching_physics.png)
