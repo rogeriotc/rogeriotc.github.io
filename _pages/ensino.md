@@ -9,12 +9,13 @@ author_profile: true
 
 | **Year**  | **University** | **Course**                                                   | **Level**     |
 | :------: | :------------: | :---------------------------------------------------------- | :-----------: |
-| **2024** | UERJ           | Numerical Calculus                                           | Undergraduate |
+| **2024** | UERJ           | Finite Difference Methods                                           | Undergraduate |
+| **2024** | UERJ           | Numerical Methods                                           | Undergraduate |
 | **2024** | UERJ           | Financial Mathematics                                       | Undergraduate |
 | **2023** | UERJ           | Simulation Methods                                          | Undergraduate |
 | **2023** | UERJ           | Discrete Mathematics                                        | Undergraduate |
 | **2023** | UERJ           | Financial Mathematics                                       | Undergraduate |
-| **2023** | UERJ           | Numerical Calculus                                           | Undergraduate |
+| **2023** | UERJ           | Numerical Methods                                           | Undergraduate |
 | **2023** | Unesp          | Topics in General Relativity                                | Graduate      |
 | **2022** | UFABC          | Mathematical Methods in General Relativity                 | Graduate      |
 | **2021** | UFABC          | Functions of Several Variables                              | Undergraduate |
