@@ -9,6 +9,8 @@ author_profile: true
 
 | **Year**  | **University** | **Course**                                                   | **Level**     |
 | :------: | :------------: | :---------------------------------------------------------- | :-----------: |
+| **2025** | UERJ           | History of Mathematics                                           | Undergraduate |
+| **2025** | UERJ           | Numerical Methods                                           | Undergraduate |
 | **2024** | UERJ           | Finite Difference Methods                                           | Undergraduate |
 | **2024** | UERJ           | Numerical Methods                                           | Undergraduate |
 | **2024** | UERJ           | Financial Mathematics                                       | Undergraduate |
