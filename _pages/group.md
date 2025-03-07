@@ -7,17 +7,18 @@ redirect_from:
   - /resume
 ---
 
+## Research Group
 
 ### Current Members
 
-| **Institution** | **Name**                         |       **Role**        | **Lattes**                             |
+| **Institution** | **Name**                         |       **Role**        | **CV (Lattes)**                             |
 | :-------------: | :------------------------------- | :-------------------: | :------------------------------------- |
-|    **UERJ**     | Rogério Teixeira Cavalcanti      |      Supervisor       | http://lattes.cnpq.br/4387593644266917 |
-|    **UNESP**    | Ronaldo Cesar de Paiva           |     Ph.D. student     | http://lattes.cnpq.br/7644990361763324 |
-|    **UNESP**    | Kelvin dos Santos Alves          |     Ph.D. student     | http://lattes.cnpq.br/6300322809395217 |
-|    **UNESP**    | Bárbara Banheti Sant'Annas       |     Ph.D. sudent      | http://lattes.cnpq.br/0858057100366634 |
-|    **UERJ**     | Miguel Luis Alves de Carvalho    | Undergraduate student | http://lattes.cnpq.br/4169648235351025 |
-|    **UERJ**     | Pedro Henrique Carneiro da Costa | Undergraduate student | http://lattes.cnpq.br/8796444363213121 |
+|    **UERJ**     | Rogério Teixeira Cavalcanti      |      Supervisor       | [link](http://lattes.cnpq.br/4387593644266917) |
+|    **UNESP**    | Ronaldo Cesar de Paiva           |     Ph.D. student     | [link](http://lattes.cnpq.br/7644990361763324) |
+|    **UNESP**    | Kelvin dos Santos Alves          |     Ph.D. student     | [link](http://lattes.cnpq.br/6300322809395217) |
+|    **UNESP**    | Bárbara Banheti Sant'Annas       |     Ph.D. sudent      | [link](http://lattes.cnpq.br/0858057100366634) |
+|    **UERJ**     | Miguel Luis Alves de Carvalho    | Undergraduate student | [link](http://lattes.cnpq.br/4169648235351025) |
+|    **UERJ**     | Pedro Henrique Carneiro da Costa | Undergraduate student | [link](http://lattes.cnpq.br/8796444363213121) |
 
 
 
