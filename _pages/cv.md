@@ -33,13 +33,20 @@ redirect_from:
 |  **2017 \| 2020**   | Postdoctoral Fellow  | São Paulo State University (UNESP)                     |
 |  **2016 \| 2017**   | Lecturer | São Paulo State Technology Colleges (FATEC)            |
 
+### Publications
+
+See [here](https://rogeriotc.github.io/publicacoes/).
+
+
 ### Ongoing Supervisions
 
-| **Start**        | **Name**                          | **Level**   | **Title**                                                       |
-|:-----------------:|:-----------------------------------|:-----------:|:----------------------------------------------------------------|
+| **Start**         | **Name**                          | **Level**   | **Title**                                                       |
+|:-----------------:|:----------------------------------|:-----------:|:----------------------------------------------------------------|
 | **2022**          | Ronaldo Cesar de Paiva            | Ph.D.       | To be defined                                                   |
 | **2024**          | Kelvin dos Santos Alves           | Ph.D.       | To be defined                                                   |
 | **2024**          | Bárbara Banheti Sant'Annas        | Ph.D.       | To be defined                                                   |
+| **2024**          | Miguel Luis Alves De Carvalho     |Undergraduate| Implementação computacional de técnicas de EDP                  |
+| **2025**          | Pedro Henrique Carneiro da Costa  |Undergraduate| Visualizações de objetos relativísticos                         |
 
 ### Completed Supervisions
 
