@@ -9,6 +9,8 @@ redirect_from:
 
 ## Research Group
 
+Our research group explores a broad range of topics in gravitational physics and mathematical structures, including General Relativity and alternative theories of gravity, the geometry and physics of black holes, gravitational waves, Clifford algebras and the structure of spinors, and applied mathematics. We welcome both undergraduate and graduate students interested in contributing to these fields.
+
 ### Current Members
 
 | **Institution** | **Name**                         |       **Role**        | **CV (Lattes)**                             |
