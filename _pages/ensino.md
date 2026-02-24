@@ -9,9 +9,14 @@ author_profile: true
 
 | **Year**  | **University** | **Course**                                                   | **Level**     |
 | :------: | :------------: | :---------------------------------------------------------- | :-----------: |
-| **2025** | UERJ           | History of Mathematics                                           | Undergraduate |
+| **2026** | UERJ           | [Mathematical Methods in General Relativity](https://rogeriotc.github.io/_pages/ementa_topicos_especiais.html)                  | Undergraduate |
+| **2026** | UERJ           | Numerical Methods                                           | Undergraduate |
+| **2026** | UERJ           | History of Mathematics                                      | Undergraduate |
+| **2025** | UERJ           | Finite Difference Methods                                   | Undergraduate |
 | **2025** | UERJ           | Numerical Methods                                           | Undergraduate |
-| **2024** | UERJ           | Finite Difference Methods                                           | Undergraduate |
+| **2025** | UERJ           | History of Mathematics                                      | Undergraduate |
+| **2025** | UERJ           | Numerical Methods                                           | Undergraduate |
+| **2024** | UERJ           | Finite Difference Methods                                   | Undergraduate |
 | **2024** | UERJ           | Numerical Methods                                           | Undergraduate |
 | **2024** | UERJ           | Financial Mathematics                                       | Undergraduate |
 | **2023** | UERJ           | Simulation Methods                                          | Undergraduate |
@@ -19,7 +24,7 @@ author_profile: true
 | **2023** | UERJ           | Financial Mathematics                                       | Undergraduate |
 | **2023** | UERJ           | Numerical Methods                                           | Undergraduate |
 | **2023** | Unesp          | Topics in General Relativity                                | Graduate      |
-| **2022** | UFABC          | Mathematical Methods in General Relativity                 | Graduate      |
+| **2022** | UFABC          | Mathematical Methods in General Relativity                  | Graduate      |
 | **2021** | UFABC          | Functions of Several Variables                              | Undergraduate |
 | **2021** | UFABC          | Functions of One Variable                                   | Undergraduate |
 | **2021** | Unesp          | [SageMath Minicourse for Physicists](https://rogeriotc.github.io/curso_sage/) | Undergraduate |
