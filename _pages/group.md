@@ -13,14 +13,19 @@ Our research group explores a broad range of topics in gravitational physics and
 
 ### Current Members
 
-| **Institution** | **Name**                         |       **Role**        | **CV (Lattes)**                             |
-| :-------------: | :------------------------------- | :-------------------: | :------------------------------------- |
+| **Institution** | **Name**                         |       **Role**        | **CV (Lattes)**                                |
+| :-------------: | :------------------------------- | :-------------------: | :--------------------------------------------- |
 |    **UERJ**     | Rogério Teixeira Cavalcanti      |      Supervisor       | [link](http://lattes.cnpq.br/4387593644266917) |
 |    **UNESP**    | Ronaldo Cesar de Paiva           |     Ph.D. student     | [link](http://lattes.cnpq.br/7644990361763324) |
 |    **UNESP**    | Kelvin dos Santos Alves          |     Ph.D. student     | [link](http://lattes.cnpq.br/6300322809395217) |
-|    **UNESP**    | Bárbara Banheti Sant'Annas       |     Ph.D. sudent      | [link](http://lattes.cnpq.br/0858057100366634) |
+|    **UNESP**    | Victor Manuel Neyra Salvador     |     Ph.D. sudent      | [link](http://lattes.cnpq.br/3830097015558224) |
+|    **UNESP**    | Marcel de Britto Gonçalves       |     Ph.D. sudent      |                                                |
+|    **UNESP**    | Mateus Leal Uchoa Fernandes      |    Master student     |                                                |
 |    **UERJ**     | Miguel Luis Alves de Carvalho    | Undergraduate student | [link](http://lattes.cnpq.br/4169648235351025) |
 |    **UERJ**     | Pedro Henrique Carneiro da Costa | Undergraduate student | [link](http://lattes.cnpq.br/8796444363213121) |
+|    **UERJ**     | Caio Marques Fernandes           | Undergraduate student |                                                |
+|    **UERJ**     | Bruno Ferreira                   | Undergraduate student |                                                |
+|    **UERJ**     | Luiz Carlos Altimari             | Undergraduate student |
 
 
 
